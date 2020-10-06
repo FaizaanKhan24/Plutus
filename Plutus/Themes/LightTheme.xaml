@@ -8,7 +8,9 @@
     <!--Global Styles-->
 
     <!--Colors-->
-    <Color x:Key="NavigationPrimary">#2196F3</Color>
+    <Color x:Key="NavigationPrimary">#333333</Color>
+    <Color x:Key="AppBackground">#FFFFFF</Color>
+    <Color x:Key="TextColor">#000000</Color>
 
     <!--Styles-->
     <Style TargetType="NavigationPage">
